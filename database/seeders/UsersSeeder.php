@@ -17,12 +17,12 @@ class UsersSeeder extends Seeder
 
         User::create([
             'name' => 'Иванов',
-            'email' => 'agoeeugjt@mozmail.com',
+            'email' => 'info@datainlife.ru',
         ]);
 
         User::create([
             'name' => 'Петров',
-            'email' => 'v1sylagkx@mozmail.com',
+            'email' => 'job@datainlife.ru',
         ]);
     }
 }
